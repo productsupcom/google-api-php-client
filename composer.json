@@ -1,5 +1,5 @@
 {
-    "name": "productsup/google_apiclient",
+    "name": "productsupcom/google_apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
